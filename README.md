@@ -6,11 +6,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/gregoriusdevon/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="gregoriusdevon" height="30" width="40" /></a>
+      alt="gregoriusdevon" height="30" width="40" target="_blank"/></a>
   <a href="https://www.instagram.com/gregoriusdevon" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="gregorius.devon" height="30" width="40" /></a>
+      alt="gregorius.devon" height="30" width="40" target="_blank"/></a>
  <a href="https://twitter.com/RBLXMatteo" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="RBLXMatteo" height="30" width="40" /></a>
+      alt="RBLXMatteo" height="30" width="40" target="_blank"/></a>
 </p>
